@@ -1,7 +1,7 @@
 # Bostock API
 
 Python based API connected with NEO4J as a database engine
-for helping to get relevance between people with allergies
+for helping people to get relevance between people with allergies
 with restaurant dishes (and similar places)
 
 ## Requirements
