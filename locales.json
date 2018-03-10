@@ -1,0 +1,695 @@
+[
+  {
+    "pos_x": 443493.58,
+    "pos_y": 4475400.49,
+    "rotulo": "LA TABERNA DE ROSSY",
+    "desc_vial_edificio": "RUFINO BLANCO                                     ",
+    "num_edificio": 14
+  },
+  {
+    "pos_x": 442106.58,
+    "pos_y": 4475757.51,
+    "rotulo": "STARBUCKS",
+    "desc_vial_edificio": "JOSE ORTEGA Y GASSET                              ",
+    "num_edificio": 29
+  },
+  {
+    "pos_x": 441473.59,
+    "pos_y": 4474605.52,
+    "rotulo": "PUERTA DE ALCALA",
+    "desc_vial_edificio": "ALCALA                                            ",
+    "num_edificio": 67
+  },
+  {
+    "pos_x": 442537.58,
+    "pos_y": 4475085.51,
+    "rotulo": "KEBAB PALACE",
+    "desc_vial_edificio": "GENERAL DIAZ PORLIER                              ",
+    "num_edificio": 3
+  },
+  {
+    "pos_x": 442304.59,
+    "pos_y": 4476254.51,
+    "rotulo": "BAZAR - COMPLEMENTOS",
+    "desc_vial_edificio": "DIEGO DE LEON                                     ",
+    "num_edificio": 37
+  },
+  {
+    "pos_x": 442927.58,
+    "pos_y": 4475221.5,
+    "rotulo": "BANAK IMPORTA HERMOSILLA",
+    "desc_vial_edificio": "HERMOSILLA                                        ",
+    "num_edificio": 100
+  },
+  {
+    "pos_x": 442653.58,
+    "pos_y": 4475571.51,
+    "rotulo": "QUALITY",
+    "desc_vial_edificio": "DON RAMON DE LA CRUZ                              ",
+    "num_edificio": 75
+  },
+  {
+    "pos_x": 443234.58,
+    "pos_y": 4476647.5,
+    "rotulo": "RESIDENCIA LA GUINDALERA",
+    "desc_vial_edificio": "PINTOR MORENO CARBONERO                           ",
+    "num_edificio": 15
+  },
+  {
+    "pos_x": 442475.58,
+    "pos_y": 4476207.51,
+    "rotulo": "JORDAN",
+    "desc_vial_edificio": "DIEGO DE LEON                                     ",
+    "num_edificio": 54
+  },
+  {
+    "pos_x": 443053.58,
+    "pos_y": 4475330.5,
+    "rotulo": "LASER NATURA SALUD Y BELLEZA",
+    "desc_vial_edificio": "ALCALA                                            ",
+    "num_edificio": 128
+  },
+  {
+    "pos_x": 441787.59,
+    "pos_y": 4475359.52,
+    "rotulo": "TRUCCO",
+    "desc_vial_edificio": "CLAUDIO COELLO                                    ",
+    "num_edificio": 46
+  },
+  {
+    "pos_x": 0,
+    "pos_y": 0,
+    "rotulo": "LOS CIEN MONTADITOS                               ",
+    "desc_vial_edificio": "FELIPE II                                         ",
+    "num_edificio": 28
+  },
+  {
+    "pos_x": 442972.58,
+    "pos_y": 4476350.5,
+    "rotulo": "SAGAR",
+    "desc_vial_edificio": "AGUSTIN DURAN                                     ",
+    "num_edificio": 10
+  },
+  {
+    "pos_x": 442563.58,
+    "pos_y": 4474966.51,
+    "rotulo": "SANDOVAL",
+    "desc_vial_edificio": "JORGE JUAN                                        ",
+    "num_edificio": 70
+  },
+  {
+    "pos_x": 442017.59,
+    "pos_y": 4476131.51,
+    "rotulo": "LA PENELA                                         ",
+    "desc_vial_edificio": "VELAZQUEZ                                         ",
+    "num_edificio": 87
+  },
+  {
+    "pos_x": 442266.58,
+    "pos_y": 4475706.51,
+    "rotulo": "VTV",
+    "desc_vial_edificio": "JOSE ORTEGA Y GASSET                              ",
+    "num_edificio": 34
+  },
+  {
+    "pos_x": 443139.58,
+    "pos_y": 4476243.5,
+    "rotulo": "YASSMINE",
+    "desc_vial_edificio": "CARTAGENA                                         ",
+    "num_edificio": 35
+  },
+  {
+    "pos_x": 0,
+    "pos_y": 0,
+    "rotulo": "PESCADERIA",
+    "desc_vial_edificio": "DIEGO DE LEON                                     ",
+    "num_edificio": 26
+  },
+  {
+    "pos_x": 443790.58,
+    "pos_y": 4476812.49,
+    "rotulo": "EURO AUTOSERVICIO FRUTOS SECOS",
+    "desc_vial_edificio": "BRUSELAS                                          ",
+    "num_edificio": 64
+  },
+  {
+    "pos_x": 443233.58,
+    "pos_y": 4475421.5,
+    "rotulo": "PINTXOS Y ZURITOS",
+    "desc_vial_edificio": "MANUEL BECERRA                                    ",
+    "num_edificio": 19
+  },
+  {
+    "pos_x": 442539.58,
+    "pos_y": 4475104.51,
+    "rotulo": "PAZ REDONDO                                       ",
+    "desc_vial_edificio": "GOYA                                              ",
+    "num_edificio": 64
+  },
+  {
+    "pos_x": 442532.58,
+    "pos_y": 4476113.51,
+    "rotulo": "BAR RIO REY",
+    "desc_vial_edificio": "MALDONADO                                         ",
+    "num_edificio": 59
+  },
+  {
+    "pos_x": 443014.58,
+    "pos_y": 4475306.5,
+    "rotulo": "SALONES TREBOL",
+    "desc_vial_edificio": "ALCALA                                            ",
+    "num_edificio": 126
+  },
+  {
+    "pos_x": 441896.59,
+    "pos_y": 4475665.52,
+    "rotulo": "BONPOINT",
+    "desc_vial_edificio": "LAGASCA                                           ",
+    "num_edificio": 71
+  },
+  {
+    "pos_x": 442784.58,
+    "pos_y": 4475544.5,
+    "rotulo": "MANTEQUERIA DE PEDRO",
+    "desc_vial_edificio": "DON RAMON DE LA CRUZ                              ",
+    "num_edificio": 76
+  },
+  {
+    "pos_x": 443761.57,
+    "pos_y": 4474859.49,
+    "rotulo": "CENTRO CULTURAL QUINTA DEL BERRO (AYTO. DE MADRID)",
+    "desc_vial_edificio": "ENRIQUE D'ALMONTE                                 ",
+    "num_edificio": 1
+  },
+  {
+    "pos_x": 442736.58,
+    "pos_y": 4476534.51,
+    "rotulo": "SCAENA",
+    "desc_vial_edificio": "COSLADA                                           ",
+    "num_edificio": 7
+  },
+  {
+    "pos_x": 442228.58,
+    "pos_y": 4475275.51,
+    "rotulo": "SCANDAL",
+    "desc_vial_edificio": "HERMOSILLA                                        ",
+    "num_edificio": 54
+  },
+  {
+    "pos_x": 442485.58,
+    "pos_y": 4475076.51,
+    "rotulo": "ACADEMIA",
+    "desc_vial_edificio": "FRANCISCA MORENO                                  ",
+    "num_edificio": 3
+  },
+  {
+    "pos_x": 441963.58,
+    "pos_y": 4475378.51,
+    "rotulo": "NESPRESSO",
+    "desc_vial_edificio": "VELAZQUEZ                                         ",
+    "num_edificio": 45
+  },
+  {
+    "pos_x": 441820.59,
+    "pos_y": 4475476.52,
+    "rotulo": "POETE",
+    "desc_vial_edificio": "AYALA                                             ",
+    "num_edificio": 17
+  },
+  {
+    "pos_x": 442746.58,
+    "pos_y": 4475546.5,
+    "rotulo": "PEPO                                              ",
+    "desc_vial_edificio": "DON RAMON DE LA CRUZ                              ",
+    "num_edificio": 70
+  },
+  {
+    "pos_x": 0,
+    "pos_y": 0,
+    "rotulo": "NOVODI                                            ",
+    "desc_vial_edificio": "ALCALA                                            ",
+    "num_edificio": 221
+  },
+  {
+    "pos_x": 442712.58,
+    "pos_y": 4475364.5,
+    "rotulo": "AMICHI",
+    "desc_vial_edificio": "CONDE DE PEÑALVER                                 ",
+    "num_edificio": 18
+  },
+  {
+    "pos_x": 443683.58,
+    "pos_y": 4476985.49,
+    "rotulo": "ANY TROUBLE ROCK BAR",
+    "desc_vial_edificio": "BAVIERA                                           ",
+    "num_edificio": 6
+  },
+  {
+    "pos_x": 443298.58,
+    "pos_y": 4475147.5,
+    "rotulo": "CAMINO A CASA",
+    "desc_vial_edificio": "DOCTOR ESQUERDO                                   ",
+    "num_edificio": 31
+  },
+  {
+    "pos_x": 443541.58,
+    "pos_y": 4474937.49,
+    "rotulo": "COWORKING Y COMERCIO REPROGRAFIA",
+    "desc_vial_edificio": "ELVIRA                                            ",
+    "num_edificio": 16
+  },
+  {
+    "pos_x": 441556.59,
+    "pos_y": 4475238.52,
+    "rotulo": "LOLA CRUZ",
+    "desc_vial_edificio": "GOYA                                              ",
+    "num_edificio": 5
+  },
+  {
+    "pos_x": 442829.58,
+    "pos_y": 4476406.5,
+    "rotulo": "CENTRO HOGAR MARIA INMACULADA",
+    "desc_vial_edificio": "MEJICO                                            ",
+    "num_edificio": 10
+  },
+  {
+    "pos_x": 441510.59,
+    "pos_y": 4475353.52,
+    "rotulo": "DELINAS",
+    "desc_vial_edificio": "CASTELLANA                                        ",
+    "num_edificio": 4
+  },
+  {
+    "pos_x": 442993.58,
+    "pos_y": 4475689.5,
+    "rotulo": "FRANCK PROVOST",
+    "desc_vial_edificio": "JOSE ORTEGA Y GASSET                              ",
+    "num_edificio": 81
+  },
+  {
+    "pos_x": 442221.58,
+    "pos_y": 4476024.51,
+    "rotulo": "BEAUTY BOULEVARD",
+    "desc_vial_edificio": "JUAN BRAVO                                        ",
+    "num_edificio": 21
+  },
+  {
+    "pos_x": 441832.59,
+    "pos_y": 4475934.52,
+    "rotulo": "LA HABITACION DE NACHETE",
+    "desc_vial_edificio": "CLAUDIO COELLO                                    ",
+    "num_edificio": 109
+  },
+  {
+    "pos_x": 443222.58,
+    "pos_y": 4475428.5,
+    "rotulo": "ISTAMBUL",
+    "desc_vial_edificio": "MANUEL BECERRA                                    ",
+    "num_edificio": 20
+  },
+  {
+    "pos_x": 443063.58,
+    "pos_y": 4475651.5,
+    "rotulo": "ELECTRICIDAD BASE",
+    "desc_vial_edificio": "JOSE ORTEGA Y GASSET                              ",
+    "num_edificio": 98
+  },
+  {
+    "pos_x": 443604.58,
+    "pos_y": 4475227.49,
+    "rotulo": "ALIMENTACION",
+    "desc_vial_edificio": "MARQUES DE ZAFRA                                  ",
+    "num_edificio": 28
+  },
+  {
+    "pos_x": 442980.58,
+    "pos_y": 4476406.5,
+    "rotulo": "EL CAMPERO",
+    "desc_vial_edificio": "PILAR DE ZARAGOZA                                 ",
+    "num_edificio": 69
+  },
+  {
+    "pos_x": 441734.59,
+    "pos_y": 4475980.52,
+    "rotulo": "PEDRO DEL HIERRO                                  ",
+    "desc_vial_edificio": "SERRANO                                           ",
+    "num_edificio": 63
+  },
+  {
+    "pos_x": 442743.58,
+    "pos_y": 4475255.5,
+    "rotulo": "R0TULO NO INFORMADO",
+    "desc_vial_edificio": "HERMOSILLA                                        ",
+    "num_edificio": 97
+  },
+  {
+    "pos_x": 442136.58,
+    "pos_y": 4475608.51,
+    "rotulo": "BLANC DE PROVENCE",
+    "desc_vial_edificio": "DON RAMON DE LA CRUZ                              ",
+    "num_edificio": 29
+  },
+  {
+    "pos_x": 443860.57,
+    "pos_y": 4475205.49,
+    "rotulo": "CAFETI LA QUIMERA",
+    "desc_vial_edificio": "VIZCONDE DE MATAMALA                              ",
+    "num_edificio": 48
+  },
+  {
+    "pos_x": 443037.58,
+    "pos_y": 4476513.5,
+    "rotulo": "ALIMENTACION",
+    "desc_vial_edificio": "BEJAR                                             ",
+    "num_edificio": 40
+  },
+  {
+    "pos_x": 442802.58,
+    "pos_y": 4475251.5,
+    "rotulo": "CERRAJEROS YAGUE 915770200",
+    "desc_vial_edificio": "HERMOSILLA                                        ",
+    "num_edificio": 101
+  },
+  {
+    "pos_x": 442551.58,
+    "pos_y": 4475277.51,
+    "rotulo": "CANDE-CANDE ATELIER",
+    "desc_vial_edificio": "GENERAL DIAZ PORLIER                              ",
+    "num_edificio": 19
+  },
+  {
+    "pos_x": 442901.58,
+    "pos_y": 4475379.5,
+    "rotulo": "PRIVE SPACE PREMIUM MASSSAGE",
+    "desc_vial_edificio": "AYALA                                             ",
+    "num_edificio": 126
+  },
+  {
+    "pos_x": 442451.58,
+    "pos_y": 4475278.51,
+    "rotulo": "CUYLAS",
+    "desc_vial_edificio": "HERMOSILLA                                        ",
+    "num_edificio": 75
+  },
+  {
+    "pos_x": 443722.57,
+    "pos_y": 4475181.49,
+    "rotulo": "HANGAR 38",
+    "desc_vial_edificio": "MARQUES DE ZAFRA                                  ",
+    "num_edificio": 38
+  },
+  {
+    "pos_x": 442374.59,
+    "pos_y": 4476518.51,
+    "rotulo": "LUNCH & DINNER          ",
+    "desc_vial_edificio": "PRINCIPE DE VERGARA                               ",
+    "num_edificio": 99
+  },
+  {
+    "pos_x": 442103.58,
+    "pos_y": 4475370.51,
+    "rotulo": "COCO",
+    "desc_vial_edificio": "NUÑEZ DE BALBOA                                   ",
+    "num_edificio": 42
+  },
+  {
+    "pos_x": 443056.58,
+    "pos_y": 4475651.5,
+    "rotulo": "TABERNA DEL OLIVO",
+    "desc_vial_edificio": "JOSE ORTEGA Y GASSET                              ",
+    "num_edificio": 98
+  },
+  {
+    "pos_x": 442644.58,
+    "pos_y": 4475263.51,
+    "rotulo": "LA SIRENA",
+    "desc_vial_edificio": "HERMOSILLA                                        ",
+    "num_edificio": 91
+  },
+  {
+    "pos_x": 442124.58,
+    "pos_y": 4475608.51,
+    "rotulo": "HERBOLARIO SU SALUD    ",
+    "desc_vial_edificio": "DON RAMON DE LA CRUZ                              ",
+    "num_edificio": 29
+  },
+  {
+    "pos_x": 442433.58,
+    "pos_y": 4475332.51,
+    "rotulo": "SUNDARA",
+    "desc_vial_edificio": "GENERAL PARDIÑAS                                  ",
+    "num_edificio": 27
+  },
+  {
+    "pos_x": 443685.58,
+    "pos_y": 4475723.49,
+    "rotulo": "VIPS",
+    "desc_vial_edificio": "ALCALA                                            ",
+    "num_edificio": 200
+  },
+  {
+    "pos_x": 442172.58,
+    "pos_y": 4475278.51,
+    "rotulo": "EÑE",
+    "desc_vial_edificio": "CASTELLO                                          ",
+    "num_edificio": 39
+  },
+  {
+    "pos_x": 441882.59,
+    "pos_y": 4476387.52,
+    "rotulo": "R0TULO NO INFORMADO",
+    "desc_vial_edificio": "CLAUDIO COELLO                                    ",
+    "num_edificio": 114
+  },
+  {
+    "pos_x": 441685.59,
+    "pos_y": 4475781.52,
+    "rotulo": "NESPRESSO",
+    "desc_vial_edificio": "JOSE ORTEGA Y GASSET                              ",
+    "num_edificio": 5
+  },
+  {
+    "pos_x": 442909.58,
+    "pos_y": 4476273.5,
+    "rotulo": "FRUTAS DE LA VERA",
+    "desc_vial_edificio": "ARDEMANS                                          ",
+    "num_edificio": 42
+  },
+  {
+    "pos_x": 441635.59,
+    "pos_y": 4474723.52,
+    "rotulo": "MAGASAND",
+    "desc_vial_edificio": "COLUMELA                                          ",
+    "num_edificio": 4
+  },
+  {
+    "pos_x": 441840.58,
+    "pos_y": 4475088.52,
+    "rotulo": "THANKS MUM",
+    "desc_vial_edificio": "LAGASCA                                           ",
+    "num_edificio": 27
+  },
+  {
+    "pos_x": 442147.58,
+    "pos_y": 4475609.51,
+    "rotulo": "FRANCK PROVOST",
+    "desc_vial_edificio": "DON RAMON DE LA CRUZ                              ",
+    "num_edificio": 31
+  },
+  {
+    "pos_x": 443670.58,
+    "pos_y": 4475650.49,
+    "rotulo": "LOS ABUELOS TOREROS",
+    "desc_vial_edificio": "BOCANGEL                                          ",
+    "num_edificio": 4
+  },
+  {
+    "pos_x": 441845.59,
+    "pos_y": 4475612.52,
+    "rotulo": "LOS PEQUEÑOS SUIZOS",
+    "desc_vial_edificio": "DON RAMON DE LA CRUZ                              ",
+    "num_edificio": 12
+  },
+  {
+    "pos_x": 442823.58,
+    "pos_y": 4475365.5,
+    "rotulo": "GERMAINE GOYA",
+    "desc_vial_edificio": "AYALA                                             ",
+    "num_edificio": 112
+  },
+  {
+    "pos_x": 442407.58,
+    "pos_y": 4476013.51,
+    "rotulo": "VE-GA BAR",
+    "desc_vial_edificio": "JUAN BRAVO                                        ",
+    "num_edificio": 29
+  },
+  {
+    "pos_x": 443106.58,
+    "pos_y": 4475295.5,
+    "rotulo": "F LADY",
+    "desc_vial_edificio": "FUENTE DEL BERRO                                  ",
+    "num_edificio": 11
+  },
+  {
+    "pos_x": 442020.58,
+    "pos_y": 4475022.51,
+    "rotulo": "ANTIGUEDADES SALAMANCA S.L",
+    "desc_vial_edificio": "JORGE JUAN                                        ",
+    "num_edificio": 31
+  },
+  {
+    "pos_x": 441991.58,
+    "pos_y": 4475310.51,
+    "rotulo": "MAS Q MENOS",
+    "desc_vial_edificio": "VELAZQUEZ                                         ",
+    "num_edificio": 44
+  },
+  {
+    "pos_x": 442324.58,
+    "pos_y": 4474983.51,
+    "rotulo": "THAIDY LA CONINA REAL TAILANDESA",
+    "desc_vial_edificio": "JORGE JUAN                                        ",
+    "num_edificio": 54
+  },
+  {
+    "pos_x": 442622.58,
+    "pos_y": 4475246.51,
+    "rotulo": "GANIMA, S.L.",
+    "desc_vial_edificio": "HERMOSILLA                                        ",
+    "num_edificio": 84
+  },
+  {
+    "pos_x": 443038.58,
+    "pos_y": 4475389.5,
+    "rotulo": "TABERNA LAS BOTAS",
+    "desc_vial_edificio": "AYALA                                             ",
+    "num_edificio": 99
+  },
+  {
+    "pos_x": 0,
+    "pos_y": 0,
+    "rotulo": "NH HOTELES",
+    "desc_vial_edificio": "GOYA                                              ",
+    "num_edificio": 5
+  },
+  {
+    "pos_x": 443539.58,
+    "pos_y": 4475673.49,
+    "rotulo": "HORNO DE PAN NOVODI",
+    "desc_vial_edificio": "ALCALA                                            ",
+    "num_edificio": 221
+  },
+  {
+    "pos_x": 0,
+    "pos_y": 0,
+    "rotulo": "APARCAMIENTO SAN CAYETANO                         ",
+    "desc_vial_edificio": "SAN CAYETANO                                      ",
+    "num_edificio": 1
+  },
+  {
+    "pos_x": 442978.58,
+    "pos_y": 4476194.5,
+    "rotulo": "OCUMARE",
+    "desc_vial_edificio": "FERRER DEL RIO                                    ",
+    "num_edificio": 7
+  },
+  {
+    "pos_x": 443189.58,
+    "pos_y": 4475415.5,
+    "rotulo": "SENY                                              ",
+    "desc_vial_edificio": "ALCALA                                            ",
+    "num_edificio": 146
+  },
+  {
+    "pos_x": 443379.58,
+    "pos_y": 4475828.5,
+    "rotulo": "FRUTAS HNS ARRANZ",
+    "desc_vial_edificio": "FRANCISCO NAVACERRADA                             ",
+    "num_edificio": 40
+  },
+  {
+    "pos_x": 442923.58,
+    "pos_y": 4476622.5,
+    "rotulo": "A DETERMINAR",
+    "desc_vial_edificio": "COSLADA                                           ",
+    "num_edificio": 34
+  },
+  {
+    "pos_x": 443135.58,
+    "pos_y": 4475929.5,
+    "rotulo": "PINSHENG ZHU",
+    "desc_vial_edificio": "CARTAGENA                                         ",
+    "num_edificio": 18
+  },
+  {
+    "pos_x": 443079.58,
+    "pos_y": 4475168.5,
+    "rotulo": "COMERCIO DE ALIMENTACION",
+    "desc_vial_edificio": "FUENTE DEL BERRO                                  ",
+    "num_edificio": 18
+  },
+  {
+    "pos_x": 441856.58,
+    "pos_y": 4474874.52,
+    "rotulo": "MADRID CAMISERO",
+    "desc_vial_edificio": "VILLANUEVA                                        ",
+    "num_edificio": 15
+  },
+  {
+    "pos_x": 443041.58,
+    "pos_y": 4475542.5,
+    "rotulo": "COMERCIAL MERCEDES BENZ",
+    "desc_vial_edificio": "DON RAMON DE LA CRUZ                              ",
+    "num_edificio": 105
+  },
+  {
+    "pos_x": 442829.58,
+    "pos_y": 4476576.5,
+    "rotulo": "TIEMPOS MAGICOS",
+    "desc_vial_edificio": "PILAR DE ZARAGOZA                                 ",
+    "num_edificio": 98
+  },
+  {
+    "pos_x": 441888.59,
+    "pos_y": 4476466.52,
+    "rotulo": "CHELO & LIM0N - ITALIANBISTRO",
+    "desc_vial_edificio": "CLAUDIO COELLO                                    ",
+    "num_edificio": 122
+  },
+  {
+    "pos_x": 443239.58,
+    "pos_y": 4475418.5,
+    "rotulo": "PINCHOS ELCANO",
+    "desc_vial_edificio": "MANUEL BECERRA                                    ",
+    "num_edificio": 19
+  },
+  {
+    "pos_x": 442685.58,
+    "pos_y": 4475468.5,
+    "rotulo": "DANIA PELUQUERIAS",
+    "desc_vial_edificio": "CONDE DE PEÑALVER                                 ",
+    "num_edificio": 29
+  },
+  {
+    "pos_x": 443648.58,
+    "pos_y": 4475823.49,
+    "rotulo": "CENTER POOL",
+    "desc_vial_edificio": "ROMA                                              ",
+    "num_edificio": 46
+  },
+  {
+    "pos_x": 442623.58,
+    "pos_y": 4476306.51,
+    "rotulo": "PILATES TRAINING CENTER",
+    "desc_vial_edificio": "GENERAL DIAZ PORLIER                              ",
+    "num_edificio": 105
+  },
+  {
+    "pos_x": 443350.58,
+    "pos_y": 4475838.5,
+    "rotulo": "SPORT SISTEM GIMNASIO",
+    "desc_vial_edificio": "FRANCISCO NAVACERRADA                             ",
+    "num_edificio": 39
+  }
+]
