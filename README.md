@@ -44,3 +44,8 @@ sudo docker run -p 7687:7687 -p 7474:7474 -p 80:808 -d -t -v /PATH_TO_DATABASE_F
  ```
 
  - The API will be available on http://localhost:3000
+
+ ## DATASETS
+
+ - [Censo de locales, sus actividades y terrazas de hostelería y restauración](https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=66665cde99be2410VgnVCM1000000b205a0aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default)
+ CSV curated and transformed for adding some entries to the Graph, from the Ayuntamiento de Madrid open data website
